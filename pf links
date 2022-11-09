@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+  <p> Profile links </p> 
+  <p> scratch: </p>
+  
+  <button title="button title" class="action primary tocart" onclick=" window.open('https://scratch.mit.edu/users/bowmand117', '_blank'); return false;">Bowmand117</button>
+  <button title="button title" class="action primary tocart" onclick=" window.open('https://scratch.mit.edu/users/bowmandalt', '_blank'); return false;">Bowmandalt</button>
+  <button title="button title" class="action primary tocart" onclick=" window.open('https://scratch.mit.edu/users/bowmand_test', '_blank'); return false;">Bowmand_test</button>
+  <button title="button title" class="action primary tocart" onclick=" window.open('https://scratch.mit.edu/users/topPVPmaster', '_blank'); return false;">topPVPmaster</button>   
+  
+  <p> Replit: </p>
+  <button title="button title" class="action primary tocart" onclick=" window.open('https://replit.com/@DillanBowman', '_blank'); return false;">@DillanBowman</button>
+  
+  <p> Ask-Replit: </p>
+  <button title="button title" class="action primary tocart" onclick=" window.open('https://github.com/Dillan-Bowman', '_blank'); return false;">Dillan-Bowman</button>
+    
+  <p> Github: </p>
+  <button title="button title" class="action primary tocart" onclick=" window.open('https://ask.replit.com/u/Dillan-Bowman/', '_blank'); return false;">Dillan-Bowman</button>
+</body>
+</html>
+
+
