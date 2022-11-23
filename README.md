@@ -20,3 +20,15 @@
 - Github 
   - Dillan bowman
     - https://github.com/Dillan-bowman
+    
+- spotify
+  - Dillan Bowman
+    - https://open.spotify.com/user/31gjutrhsy555nedtg3fxuit4unm
+    
+- twitter
+  - LOLMCGAMER
+    - https://twitter.com/lolmcgamer
+
+- Discord
+  - LOL_MC_GAMER / Dilan Bowman
+    - LOL_MC_GAMER#9447
