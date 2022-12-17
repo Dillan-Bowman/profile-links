@@ -1,5 +1,7 @@
 # profile-links
 
+## this is outdated. new link here: https://redirect.dillanbowman.repl.co
+
 
 - Scratch 
   - Bowmand117 
